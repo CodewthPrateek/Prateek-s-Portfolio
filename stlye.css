@@ -3,7 +3,7 @@
 :root {
     --dark-bg: #0a0a0a;
     --darker-bg: #050505;
-     --accent: #e92929;
+    --accent: #e92929;
     --accent-glow: rgba(167, 23, 7, 0.4);
     --text: #ffffff;
 }
