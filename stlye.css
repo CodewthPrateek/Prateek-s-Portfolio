@@ -399,10 +399,12 @@ footer p {
         flex-direction: column-reverse;
         text-align: center;
         padding-top: 20%;
+        gap: 1.5rem;
     }
     .hero-content { padding-right: 0; }
     .hero p { margin: 0 auto 1rem; }
     .profile-img { width: 220px; height: 220px; margin-bottom: 2rem; }
     .hero h1 { font-size: 2rem; }
     .nav-links { gap: 1rem; }
+
 }
