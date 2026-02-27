@@ -398,7 +398,7 @@ footer p {
     .hero {
         flex-direction: column-reverse;
         text-align: center;
-        padding-top: 20%;
+        padding-top: 50%;
         gap: 1.5rem;
     }
     .hero-content { padding-right: 0; }
@@ -408,3 +408,4 @@ footer p {
     .nav-links { gap: 1rem; }
 
 }
+
